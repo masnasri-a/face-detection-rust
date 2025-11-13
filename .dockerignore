@@ -1,0 +1,15 @@
+# Docker ignore file for backend
+target/
+.env
+.git/
+.gitignore
+*.md
+frontend/
+node_modules/
+.next/
+*.log
+temp/
+knowledge/
+face_recognition.db
+face_recognition.db-shm
+face_recognition.db-wal
